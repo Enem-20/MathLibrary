@@ -1,3 +1,0 @@
-D:/Matrix/MathLibrary/build/CMakeFiles/MathLibrary.dir
-D:/Matrix/MathLibrary/build/CMakeFiles/edit_cache.dir
-D:/Matrix/MathLibrary/build/CMakeFiles/rebuild_cache.dir

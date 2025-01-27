@@ -1,8 +1,0 @@
-[
-{
-  "directory": "D:/Matrix/MathLibrary/build",
-  "command": "C:\\PROGRA~1\\LLVM-M~1\\bin\\CLANG_~1.EXE -g -std=gnu++20 -o CMakeFiles\\MathLibrary.dir\\src\\main.cpp.obj -c D:\\Matrix\\MathLibrary\\src\\main.cpp",
-  "file": "D:\\Matrix\\MathLibrary\\src\\main.cpp",
-  "output": "CMakeFiles\\MathLibrary.dir\\src\\main.cpp.obj"
-}
-]
