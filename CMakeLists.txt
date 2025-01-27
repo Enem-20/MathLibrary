@@ -6,4 +6,4 @@ set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 
-add_executable(MathLibrary src/main.cpp src/Vector.hpp src/Vector.tpp)
+add_executable(MathLibrary src/main.cpp src/Vector.hpp src/Vector.tpp src/Matrix.hpp src/Matrix.tpp)
